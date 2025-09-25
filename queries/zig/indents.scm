@@ -8,6 +8,7 @@
   (while_expression)
   (for_expression)
   (initializer_list)
+  (call_expression)
 ] @indent.begin
 
 (block
